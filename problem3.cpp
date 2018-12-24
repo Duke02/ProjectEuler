@@ -1,3 +1,10 @@
+/*
+	This problem has not been checked to see if it will actually work or give the actual results.
+	It is a solution that has not been optimized at all, thus the O(n^2) solution.
+	This solution has not been researched for better ways of programming, which is a goal.
+	There will likely be another solution that has been researched.
+*/
+
 #include <iostream>
 #include <vector>
 
